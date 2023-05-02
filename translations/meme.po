@@ -1369,5 +1369,5 @@ msgstr "android phone"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:24
 msgid "Ultra low 32x"
-msgstr "No turing back"
+msgstr "Great Value Chip"
 
